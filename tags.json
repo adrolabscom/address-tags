@@ -38,5 +38,21 @@
   {
     "address": "0x111f91441efc8c6c0edf6534970cc887e2fabaa8",
     "name": "Taraxa Faucet"
+  },
+  {
+    "address": "0x157bE75819e90736364Bf44D8C6626c619FD0242",
+    "name": "Grumpy Liquidity"
+  },
+  {
+    "address": "0x42fdDd627F5bC2f8acdb32Bd2544e1A94E7c2ea9",
+    "name": "Grumpy Treasury"
+  },
+  {
+    "address": "0x000000000000000000000000000000000000dEaD",
+    "name": "Burn Address"
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Burn Address"
   }
 ]
