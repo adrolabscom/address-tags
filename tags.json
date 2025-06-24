@@ -52,8 +52,12 @@
     "name": "AscendEx"
   },
   {
-    "address": "0xdfe14fa0c322e34039d33400638771876398ad88"
+    "address": "0xdfe14fa0c322e34039d33400638771876398ad88",
     "name": "IOSG Ventures"
+  },
+  {
+    "address": "0x8782163068c7cd74d2510768a61135c1e4eb07b3",
+    "name": "Gate: Deposit"
   },
   {
     "address": "0x157bE75819e90736364Bf44D8C6626c619FD0242",
