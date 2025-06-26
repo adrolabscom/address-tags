@@ -108,6 +108,10 @@
     "name": "Old TARA (erc20)"
   },
   {
+    "address": "0xfdf7328639250d580dac258f34d11d4a78e6fb56",
+    "name": "CoinEx"
+  },
+  {
     "address": "0x157bE75819e90736364Bf44D8C6626c619FD0242",
     "name": "Grumpy Liquidity"
   },
