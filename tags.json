@@ -57,11 +57,15 @@
   },
   {
     "address": "0x8782163068c7cd74d2510768a61135c1e4eb07b3",
-    "name": "Gate: Deposit"
+    "name": "Gate.io: Deposit"
   },
   {
     "address": "0x8b25ad04779f16a58b997d8728e6a3fc5f92d0a7",
-    "name": "Gate: Deposit"
+    "name": "Gate.io: Deposit"
+  },
+  {
+    "address": "0x035ae7d933dcbfe617ffba194a88af0c2867b90c",
+    "name": "Gate.io: Deposit"
   },
   {
     "address": "0x5d0fa4c5668e5809c83c95a7cef3a9dd7c68d4fe",
